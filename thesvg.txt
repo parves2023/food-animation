@@ -1,0 +1,30 @@
+            <div id="svgcontainer" class="svg-container color0svg">
+              <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+                  <defs>
+                      <linearGradient id="grad0" x1="38.7038" y1="253.9818" x2="408.6011" y2="253.9818" gradientTransform="matrix(1 0 0 -1 0 499.8898)">
+                          <stop offset="0.1508" style="stop-color:#82ff9c"/>
+                          <stop offset="1" style="stop-color:#a5b755"/>
+                      </linearGradient>
+                      <linearGradient id="grad1" x1="38.7038" y1="253.9818" x2="408.6011" y2="253.9818" gradientTransform="matrix(1 0 0 -1 0 499.8898)">
+                          <stop offset="0.1508" style="stop-color:#ffab8d"/>
+                          <stop offset="1" style="stop-color:#b95760"/>
+                      </linearGradient>
+                      <linearGradient id="grad2" x1="38.7038" y1="253.9818" x2="408.6011" y2="253.9818" gradientTransform="matrix(1 0 0 -1 0 499.8898)">
+                          <stop offset="0.1508" style="stop-color:#82a3ff"/>
+                          <stop offset="1" style="stop-color:#595ebf"/>
+                      </linearGradient>
+                      <linearGradient id="grad3" x1="38.7038" y1="253.9818" x2="408.6011" y2="253.9818" gradientTransform="matrix(1 0 0 -1 0 499.8898)">
+                          <stop offset="0.1508" style="stop-color:#ffd882"/>
+                          <stop offset="1" style="stop-color:#b59d55"/>
+                      </linearGradient>
+                  </defs>
+                  <g id="Background_1">
+                  </g>
+                  <g id="Objects">
+                      <path class="st0" d="M317.8,276.1c-0.8-6.9,0.6-8.7,4.1-12.5c5.3-5.9,14-5.9,22.2-5.5c12.9,0.6,38.1-7.8,48.5-16.9 c10.7-9.4,16.2-20.5,15.7-30.3c2.8-13-8.8-38.8-24.9-54c-25.3-24-70.4-36.9-114.1-42.3c-8.1-1-154.2-22.8-203.7,39.8 c-62.3,78.8-1.2,213.5,33.2,219.2c46.2,24,101.3-13.7,120.7-12.8c25.5,1.1,38.6,12.1,74.9,16c27.4,2.5,25.8,1.2,41.1-2.5 c6.1-2.4,12.3-5.8,16.9-11.6c9.4-12.1,7.7-26.2,7.1-30.6c-2.2-16.6-12.9-26.6-16.1-29.4C335.2,290.3,322.4,286.7,317.8,276.1z"/>
+                      <path class="st1" d="M4.1,262.6c2.6,10.2,0,0-4.1,9.8"/>
+                  </g>
+                  <g id="Designed_by_Freepik">
+                  </g>
+              </svg>
+          </div>
